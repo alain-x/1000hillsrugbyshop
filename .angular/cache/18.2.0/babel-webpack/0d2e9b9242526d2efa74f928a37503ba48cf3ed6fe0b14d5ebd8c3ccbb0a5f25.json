@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  baseUrl: 'http://1000hshop.freesite.online:8090' // Update with your Spring Boot backend URL\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

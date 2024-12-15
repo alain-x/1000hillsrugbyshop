@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  baseUrl: 'http://localhost:8090' // Local backend URL for development\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
